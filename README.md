@@ -1,8 +1,6 @@
 # MongoDB Queries
 
-This README file contains MongoDB queries to perform various operations on a product database.
-
-## 📝 Queries
+## 📝 Tasks
 
 1. Find all the information about each product
 2. Find the product prices which are between 400 to 800
